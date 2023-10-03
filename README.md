@@ -1,5 +1,5 @@
 [![pdm-managed](https://img.shields.io/badge/pdm-managed-blueviolet)](https://pdm.fming.dev)
-[![Black](https://img.shields.io/badge/code%20style-black-000000.svg)]
+![Black](https://img.shields.io/badge/code%20style-black-000000.svg)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
 
 # Eve sizing script
