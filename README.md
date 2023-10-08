@@ -3,7 +3,7 @@
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
 
 # Eve sizing script
-Sizing script for the Eve open-source liquid-fuel rocket engine
+Sizing script for the Eve open-source liquid-fuel rocket engine project.
 
 ## Usage
 
