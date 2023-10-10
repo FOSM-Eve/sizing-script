@@ -8,6 +8,8 @@ dependencies = [
     "ipywidgets>=8.1.1",
     "black[jupyter]>=23.9.1",
     "ruff>=0.0.291",
+    "cantera>=3.0.0",
+    "matplotlib>=3.8.0",
 ]
 requires-python = ">=3.11"
 readme = "README.md"
